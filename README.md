@@ -1,6 +1,6 @@
 # Hey, I'm Satvik 👋
 
-💻 **Full-Stack Developer | AI & Machine Learning | Software Engineering**
+💻 **Full-Stack Developer | Software Engineering**
 
 I enjoy building intelligent applications, solving real-world problems, and exploring the intersection of AI and modern software development.
 
